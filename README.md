@@ -1,8 +1,6 @@
 <h1 align="center">I'm Batuhan BORAN</h1>
 <h3 align="center">A software engineer from turkey trying to be a frontend developer.</h3>
 
-(https://github.com/6atuhan/6atuhan/blob/output/github-contribution-grid-snake.svg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6atuhan&label=Profile%20views&color=0e75b6&style=flat" alt="6atuhan" /> </p>
 
 
