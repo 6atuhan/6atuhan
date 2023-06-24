@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from turkey trying to be a frontend developer.</h3>
 
 
-- 🔭 I’m currently working on <a href="https://github.com/6atuhan/activitier" target="blank"> **Activitier** </a>
+- 🔭 I’m currently working on <a href="https://xpmsn.app" target="blank"> **xpmsn.app** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
